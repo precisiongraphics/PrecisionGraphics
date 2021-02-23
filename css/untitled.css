@@ -22,6 +22,9 @@
   color: #fff!important;
 }
 
+ul li {
+  color: white;
+}
 a:hover {
   color: #b8d432;
   text-decoration: underline;
@@ -62,6 +65,14 @@ body {
   background-color: #fff;
 }
 
+
 .shadow {
   box-shadow: 0px 10px -14px 14px #FFF;
+}
+
+.list {
+display: inline-block;
+list-style-type: none !important;
+text-align: left;
+
 }
